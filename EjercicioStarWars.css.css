@@ -1,0 +1,80 @@
+.Malos {
+    background-color: red;
+    text-align: center;
+    font-size: 125%;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+
+.Buenos {
+    background-color: blue;
+    text-align: center;
+    font-size: 125%;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+
+#JefeM {
+    font-size: 200%;
+    text-transform: capitalize;
+}
+
+#JefeB {
+    text-transform: capitalize;
+    font-size: 200%;
+}
+
+.apoyo {
+    text-align: center;
+    font-family: sans-serif;
+    text-transform: uppercases;
+}
+
+.Naves {
+     text-transform: uppercase;
+     color: white;
+     text-align: center;
+}
+
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2016/01/27/15/25/space-1164579_1280.png);
+}
+
+img {
+  max-width: 200px;
+  height: auto;
+  display: block;
+  margin: 0px auto;
+
+}
+
+li {
+    color: white;
+    list-style-type: none;
+}
+
+.subtitulos_imperio {
+    font-family: sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#Vader {
+    font-size: 150%;
+    font-weight: bolder;
+}
+
+#Luke {
+    font-size: 150%;
+    font-weight: bolder;
+}
+
+#origin {
+    font-size: 125%;
+    font-weight: bolder;
+    color: green;
+}
+
+h3 {
+    color: white;
+}

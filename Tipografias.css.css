@@ -1,0 +1,20 @@
+h1 {
+    font-family: "Bebas Neue", cursive;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 1000%;
+}
+
+h2 {
+    font-family: 'Dancing Script', cursive;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 300%;
+}
+
+h3 {
+    font-family: 'Major Mono Display', monospace;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 150%;
+}
